@@ -1,0 +1,17 @@
+{
+  "io-ts brand": {
+    "prefix": "iotsbrand",
+    "body": [
+      "interface ${1:Name}Brand {",
+      "  readonly ${1:Name}: unique symbol",
+      "}",
+      "const ${1:Name} = t.brand(",
+      "  t.${2:string},",
+      "  (${3:v}: ${2:string}): ${3:v} is t.Branded<${2:string}, ${1:Name}Brand> => ${4:true},",
+      "  '${1:Name}'",
+      ")",
+      "type ${1:Name} = t.TypeOf<typeof ${1:Name}>"
+    ],
+    "description": "io-ts brand"
+  }
+}
