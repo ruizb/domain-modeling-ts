@@ -4,11 +4,11 @@ After watching the talk ["Domain Modeling Made Functional" from Scott Wlaschin](
 
 The articles are available on [dev.to](https://dev.to/):
 
-- [Introduction](#)
-- [The domain and some concepts](#)
-- [Using fp-ts and newtype-ts: types](#)
-- [Using fp-ts and newtype-ts: implementation](#)
-- [Using fp-ts and io-ts: types and implementation](#)
+- [Introduction](https://dev.to/ruizb/introduction-961)
+- [The domain and some concepts](https://dev.to/ruizb/the-domain-and-some-concepts-3ene)
+- [Using fp-ts and newtype-ts: types](https://dev.to/ruizb/using-fp-ts-and-newtype-ts-types-em8)
+- [Using fp-ts and newtype-ts: implementation](https://dev.to/ruizb/using-fp-ts-and-newtype-ts-implementation-422a)
+- [Using fp-ts and io-ts: types and implementation](https://dev.to/ruizb/using-fp-ts-and-io-ts-types-and-implementation-1k6a)
 
 ## Requirements
 
